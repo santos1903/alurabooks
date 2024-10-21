@@ -1,3 +1,4 @@
+@import url("styles/header.css");
 :root {
     --cor-de-fundo: #EBECEE;
 }
@@ -15,3 +16,7 @@ h1 {
     <a href="#"><img src="img/Usuario.svg" alt="Meu perfil"></a>
 </header>
 </body>
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
